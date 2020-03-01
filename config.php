@@ -4,5 +4,5 @@ return [
     'server'    => 'localhost',
     'dbname'    => 'blog',
     'dbuser'    => 'root',
-    'dbpass'    => 'nishpa',
+    'dbpass'    => 'mahiBD',
 ];
